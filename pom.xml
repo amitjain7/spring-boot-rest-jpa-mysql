@@ -11,7 +11,6 @@
 	<groupId>spring.boot.rest.jpa.mysql</groupId>
 	<artifactId>spring-boot-rest-jpa-mysql</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
 	<name>spring-boot-rest-jpa-mysql</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
