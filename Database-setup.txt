@@ -1,0 +1,3 @@
+Local machine root user details
+user=root
+password=sys1
